@@ -13,7 +13,7 @@ import { ConnectivityService } from '../providers/connectivity-service';
   ],
   imports: [
   IonicModule.forRoot(MyApp),
-  AgmCoreModule.forRoot({ apiKey: 'Your_Api_Key',
+  AgmCoreModule.forRoot({ apiKey: 'AIzaSyB_70mS-w0YrKvUA-AJMkNFKdGk3XcUapg',
     libraries: ['places']})
   ],
   bootstrap: [IonicApp],
