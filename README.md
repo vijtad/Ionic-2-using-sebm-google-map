@@ -1,4 +1,4 @@
-This ia an example of Ionic 2 using Sebm directive.
+This ia an example of Ionic 2 using Sebm directive and Angular 2.
 
 It implements following features :-
 
@@ -18,6 +18,5 @@ ionic run android
 
 This code has been tested on Android and should also work with IOS.
 
-For more information, refer to my article http://vpt-deeplearner.tech/2016/11/24/ionic-2-an-example-of-googlemap-using-sebm-angularjs-directory/.
 
 If you need more information, let me know.
